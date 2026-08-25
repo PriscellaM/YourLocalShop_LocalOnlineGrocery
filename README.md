@@ -32,7 +32,7 @@ The application is deployed as a **web application**.
 #### Local Execution
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vzunguyen/YourLocalShop.git
+   git clone https://github.com/PriscellaM/YourLocalShop_LocalOnlineGrocery.git
    cd YourLocalShop
 2. Run the using the .NET CLI:
    ```bash
